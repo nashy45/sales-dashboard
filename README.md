@@ -1,27 +1,41 @@
-"# Sales Dashboard" 
-# 📊 Sales Dashboard
+
+ Sales Dashboard" 
+
+ 📊 Sales Dashboard
 
 An interactive sales dashboard built with **Plotly Dash** in Python.
 
-## 🔧 Features
+ 🔧 Features
 
 - Filter sales data by **region**, **product**, and **date range**.
 - View visualizations:
   - 📉 Line Chart (Sales over Time).
   - 📊 Bar Chart (Sales by Region).
-  - 🥧 Pie Chart (Product Sales Distribution).
+  - 🥧 Pie Chart (Product Sales Distribution
+- Filter sales data by **region**, **product**, and **date range**
+- View visualizations:
+  - 📉 Line Chart (Sales over Time)
+  - 📊 Bar Chart (Sales by Region)
+  - 🥧 Pie Chart (Product Sales Distribution)
+
 - Summary metrics:
   - Total Sales
   - Units Sold
   - Average Sale Value
 
-## 📁 Project Files
+ 📁 Project Files
+
 
 - `sales dashboard.ipynb` – Jupyter Notebook containing dashboard code.
 - `sales2_data.csv` – Sales data used for visualizations.
 - `README.md` – This documentation.
 
-## ▶️ Running the Dashboard
+- `sales dashboard.ipynb` – Jupyter Notebook containing dashboard code
+- `sales2_data.csv` – Sales data used for visualizations
+- `README.md` – This documentation
+
+
+ ▶️ Running the Dashboard
 
 Install dependencies (if not already installed):
 
